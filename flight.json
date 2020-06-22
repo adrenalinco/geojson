@@ -2,11 +2,11 @@
 "sources": {
   "task-thermal-source": {
     "type": "geojson",
-    "data": "https://mbar.si/flights/flight_source.geojson"
+    "data": "https://raw.githubusercontent.com/adrenalinco/geojson/master/flight_source.geojson"
   },
   "task-thermal-source2": {
     "type": "geojson",
-    "data": "https://mbar.si/flights/flight_source.geojson"
+    "data": "https://raw.githubusercontent.com/adrenalinco/geojson/master/flight_source.geojson"
   }
 },
 "layers": [
